@@ -1,1 +1,1 @@
-# MountainCar - Q-Learning
+# MountainCar - QLearning
