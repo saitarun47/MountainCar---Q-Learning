@@ -24,3 +24,19 @@ There are 3 discrete deterministic actions:
 - 0: Accelerate to the left
 - 1: Don’t accelerate
 - 2: Accelerate to the right
+
+## Rewards
+
+The goal is to reach the flag placed on top of the right hill as quickly as possible, as such the agent is penalised with a reward of -1 for each timestep.
+
+## Start State
+
+The position of the car is assigned a uniform random value in [-0.6 , -0.4]. The starting velocity of the car is always assigned to 0.
+
+## Episode End
+
+The episode ends if either of the following happens:
+
+- 1.Termination: The position of the car is greater than or equal to 0.5 (the goal position on top of the right hill)
+
+- 2.Truncation: The length of the episode is 200.
