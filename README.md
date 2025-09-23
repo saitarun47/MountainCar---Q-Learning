@@ -12,7 +12,10 @@ The Mountain Car MDP is a deterministic MDP that consists of a car placed stocha
 ## Observation Space
 
 The observation is a ndarray with shape (2,) where the elements correspond to the following:
-
+| Num | Observation | Min | Max | Unit |
+| :--- | :--- | :--- | :--- | :--- |
+| 0 | position of the car along the x-axis | -1.2 | 0.6 | position (m) |
+| 1 | velocity of the car | -0.07 | 0.07 | velocity (v) |
 
 
 ## Action Space
