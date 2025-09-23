@@ -40,3 +40,10 @@ The episode ends if either of the following happens:
 - 1.Termination: The position of the car is greater than or equal to 0.5 (the goal position on top of the right hill)
 
 - 2.Truncation: The length of the episode is 200.
+
+## Trained Agent
+
+
+## Some Graphs
+
+## Last few lines from the logs
