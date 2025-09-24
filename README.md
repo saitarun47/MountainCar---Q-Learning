@@ -43,9 +43,7 @@ The episode ends if either of the following happens:
 
 ## Trained Agent
 
-
-https://github.com/user-attachments/assets/e43f8aed-4194-467c-9a19-3e76870ea8d1
-
+https://github.com/user-attachments/assets/9bc9cd14-ef40-4cc5-b817-94725662bb26
 
 ## Scores per episode
 
