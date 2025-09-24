@@ -54,6 +54,7 @@ https://github.com/user-attachments/assets/e43f8aed-4194-467c-9a19-3e76870ea8d1
 
 ## Last few lines from the logs
 
+```bash
 Episode: 20000, Score:  -156, Avg.Score: -129.05, Epsilon: 0.010, Time: 00:03:07
 Episode: 21000, Score:  -168, Avg.Score: -160.15, Epsilon: 0.010, Time: 00:03:16
 Episode: 22000, Score:  -142, Avg.Score: -142.00, Epsilon: 0.010, Time: 00:03:24
@@ -68,3 +69,4 @@ Episode: 30000, Score:  -139, Avg.Score: -140.18, Epsilon: 0.010, Time: 00:04:28
 Episode: 31000, Score:  -107, Avg.Score: -126.63, Epsilon: 0.010, Time: 00:04:36
 
 Environment solved in 31062 episodes!	Average Score: -109.78
+```
