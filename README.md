@@ -68,3 +68,5 @@ Episode: 31000, Score:  -107, Avg.Score: -126.63, Epsilon: 0.010, Time: 00:04:36
 
 Environment solved in 31062 episodes!	Average Score: -109.78
 ```
+
+The benchmark score for MountainCar-v0 is an average return of −110.0 (or higher) over 100 consecutive episodes.
